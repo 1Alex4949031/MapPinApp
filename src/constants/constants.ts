@@ -1,0 +1,1 @@
+export const MAP_CENTER = [55.0084, 82.9357];
